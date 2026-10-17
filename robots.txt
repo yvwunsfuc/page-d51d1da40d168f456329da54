@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-456aeb76e9.niakc.cn/sitemap.xml
